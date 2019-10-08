@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1570535632 source:d:\tapia\1erparcial_labi\actor.c
+
+1570535668 source:d:\tapia\1erparcial_labi\elenco.c
+
+1570539009 source:d:\tapia\1erparcial_labi\genero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Genero.h"
+	"Pelicula.h"
+
+1570539053 source:d:\tapia\1erparcial_labi\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+	"Genero.h"
+
+1570542807 source:d:\tapia\1erparcial_labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Pelicula.h"
+	"Genero.h"
+
+1570539053 d:\tapia\1erparcial_labi\pelicula.h
+
+1570538462 d:\tapia\1erparcial_labi\genero.h
+
